@@ -14412,6 +14412,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\OneDrive\\Development\\DIO\\Desenvolvimento de aplicações com .NET\\curso_mvc_dio_asp_net\\curso_mvc_dio_asp_net\\Views\\Categorias\\Create.cshtml",
+      "TargetPath": "Views\\Categorias\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\OneDrive\\Development\\DIO\\Desenvolvimento de aplicações com .NET\\curso_mvc_dio_asp_net\\curso_mvc_dio_asp_net\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -14422,8 +14427,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\OneDrive\\Development\\DIO\\Desenvolvimento de aplicações com .NET\\curso_mvc_dio_asp_net\\curso_mvc_dio_asp_net\\Views\\Categorias\\Details.cshtml",
+      "TargetPath": "Views\\Categorias\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\OneDrive\\Development\\DIO\\Desenvolvimento de aplicações com .NET\\curso_mvc_dio_asp_net\\curso_mvc_dio_asp_net\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\OneDrive\\Development\\DIO\\Desenvolvimento de aplicações com .NET\\curso_mvc_dio_asp_net\\curso_mvc_dio_asp_net\\Views\\Categorias\\Edit.cshtml",
+      "TargetPath": "Views\\Categorias\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\OneDrive\\Development\\DIO\\Desenvolvimento de aplicações com .NET\\curso_mvc_dio_asp_net\\curso_mvc_dio_asp_net\\Views\\Categorias\\Index.cshtml",
+      "TargetPath": "Views\\Categorias\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14434,6 +14454,11 @@
     {
       "FilePath": "d:\\OneDrive\\Development\\DIO\\Desenvolvimento de aplicações com .NET\\curso_mvc_dio_asp_net\\curso_mvc_dio_asp_net\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\OneDrive\\Development\\DIO\\Desenvolvimento de aplicações com .NET\\curso_mvc_dio_asp_net\\curso_mvc_dio_asp_net\\Views\\Categorias\\Delete.cshtml",
+      "TargetPath": "Views\\Categorias\\Delete.cshtml",
       "FileKind": "mvc"
     }
   ],
