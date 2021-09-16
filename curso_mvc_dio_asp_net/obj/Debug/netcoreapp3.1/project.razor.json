@@ -14407,13 +14407,38 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\OneDrive\\Development\\DIO\\Desenvolvimento de aplicações com .NET\\curso_mvc_dio_asp_net\\curso_mvc_dio_asp_net\\Views\\Produtos\\Delete.cshtml",
+      "TargetPath": "Views\\Produtos\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\OneDrive\\Development\\DIO\\Desenvolvimento de aplicações com .NET\\curso_mvc_dio_asp_net\\curso_mvc_dio_asp_net\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\OneDrive\\Development\\DIO\\Desenvolvimento de aplicações com .NET\\curso_mvc_dio_asp_net\\curso_mvc_dio_asp_net\\Views\\Produtos\\Index.cshtml",
+      "TargetPath": "Views\\Produtos\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\OneDrive\\Development\\DIO\\Desenvolvimento de aplicações com .NET\\curso_mvc_dio_asp_net\\curso_mvc_dio_asp_net\\Views\\Categorias\\Create.cshtml",
       "TargetPath": "Views\\Categorias\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\OneDrive\\Development\\DIO\\Desenvolvimento de aplicações com .NET\\curso_mvc_dio_asp_net\\curso_mvc_dio_asp_net\\Views\\Produtos\\Create.cshtml",
+      "TargetPath": "Views\\Produtos\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\OneDrive\\Development\\DIO\\Desenvolvimento de aplicações com .NET\\curso_mvc_dio_asp_net\\curso_mvc_dio_asp_net\\Views\\Produtos\\Edit.cshtml",
+      "TargetPath": "Views\\Produtos\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\OneDrive\\Development\\DIO\\Desenvolvimento de aplicações com .NET\\curso_mvc_dio_asp_net\\curso_mvc_dio_asp_net\\Views\\Produtos\\Details.cshtml",
+      "TargetPath": "Views\\Produtos\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
